@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PranManral
 - 👀 I’m interested in many things, these days I'm interested in narrowing that list.
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript, Java, Data Structures and Algorithm.
-- 💞️ I’m looking to collaborate on nothing because I'm at beginner stage.
+- 🌱 I’m currently learning JavaScript, Java, Data Structures and Algorithm.
+- 💞️ I’m looking to collaborate on opensource projects, help me!
 - 📫 How to reach me : pranjalmanral101@gmail.com
 
 <!---
